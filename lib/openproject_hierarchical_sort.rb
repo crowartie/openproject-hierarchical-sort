@@ -1,0 +1,4 @@
+require_relative "open_project/hierarchical_sort"
+
+module OpenprojectHierarchicalSort
+end
